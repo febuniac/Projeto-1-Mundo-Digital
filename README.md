@@ -5,9 +5,14 @@ Dispensers são misturadores desenvolvidos para a indústria de cosméticos. Ess
 
 ## Materiais Nescessários
 -SAM E70
+\\
 -LED
+\\
 -BOTÃO
+\\
 -SENSOR MAGNÉTICO + IMÃ
+\\
 -MOTOR DC
 
 ## Diagrama de Blocos Simples
+![Screenshot](diagrama.png)
